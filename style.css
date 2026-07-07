@@ -4,5 +4,12 @@ body{
     background-color: lavender;
     color: darkslateblue;
     font-family:'Pixelify Sans',sans-serif;
+    text-align: center;
+}
+
+section{
+    border:2px solid black;
+    border-radius: 5px;
+    padding-bottom: 10px;
 }
 
